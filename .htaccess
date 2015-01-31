@@ -1,5 +1,2 @@
 
-RewriteEngine On
-RewriteRule ^/?$ /holmes.html [L,R=301]
-
 DirectoryIndex holmes.html index.html
