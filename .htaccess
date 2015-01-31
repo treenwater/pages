@@ -1,0 +1,3 @@
+DirectoryIndex holmes.html
+RewriteEngine On
+RewriteRule ^/?$ /holmes.html [L,R=301]
