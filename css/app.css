@@ -2,3 +2,8 @@ body {
 
 	background-color: #4F624E;
 }
+
+li.active {
+
+	color: 1c1c1c;
+}
